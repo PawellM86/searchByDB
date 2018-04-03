@@ -142,14 +142,7 @@
 </table>
 </div>
 
-<!-- <form class="empty" action="" method="post">
-	<div class="table1">
-		<table border="1">
-	 <tr><td>Имя</td><td>Фамилия</td><td>Email</td> <td>IP</td> <td>Дата регистрации</td> <td>Дата редактирования</td> <td>Действия</td> </tr>
-		 <tr><td></td><td></td><td></td><td></td> <td></td><td></td> <td></td> </tr>
-	 </table>
-	</div>
-</form> -->
+
 
   </body>
   <footer>
